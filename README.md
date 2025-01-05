@@ -1,1 +1,1 @@
-# MarketMaven
+# MarketMaven - An Advanced Strategic Investing
